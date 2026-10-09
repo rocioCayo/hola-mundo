@@ -1,2 +1,7 @@
-# hola-mundo
-Repositorio de ejemplo Hola Mundo
+# Hola, mundo!
+
+Este repositorio muestra un saludo sencillo:
+
+```python
+print("¡Hola, mundo!")
+```
